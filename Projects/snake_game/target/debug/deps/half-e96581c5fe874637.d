@@ -1,0 +1,12 @@
+/Users/akshaykolli/Code/learnRust/Projects/snake_game/target/debug/deps/half-e96581c5fe874637.rmeta: /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/lib.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/bfloat.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/bfloat/convert.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/binary16.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/binary16/convert.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/leading_zeros.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/slice.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/vec.rs
+
+/Users/akshaykolli/Code/learnRust/Projects/snake_game/target/debug/deps/half-e96581c5fe874637.d: /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/lib.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/bfloat.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/bfloat/convert.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/binary16.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/binary16/convert.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/leading_zeros.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/slice.rs /Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/vec.rs
+
+/Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/lib.rs:
+/Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/bfloat.rs:
+/Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/bfloat/convert.rs:
+/Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/binary16.rs:
+/Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/binary16/convert.rs:
+/Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/leading_zeros.rs:
+/Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/slice.rs:
+/Users/akshaykolli/.cargo/registry/src/github.com-1ecc6299db9ec823/half-2.2.0/src/vec.rs:
