@@ -6,7 +6,7 @@ fn main() {
         .read_line(&mut input_text)
         .expect("Failed to read from stdin!");
 
-    let mut n = input_text.trim().parse::<u32>().expect("Not a u32!");
+    let mut n: u64 = input_text.trim().parse::<u64>().expect("Not a u32!");
 
     //println!("{}", n);
 
