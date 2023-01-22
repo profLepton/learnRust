@@ -11,10 +11,11 @@ fn main() {
 }
 
 fn move_disks(n : u128, from: char, mid: char, to: char) {
-    if n == 0 {
+    if n == 1 {
+        println!("{} {}", from, to);
         return;
     }
-    println!("{from} {mid}");
     move_disks(n-1, from, to, mid);
-    move_disks(n-1, mid, to, from);
+    println!("{from} {to}");
+    move_disks(n-1, mid, from, to);
 }
